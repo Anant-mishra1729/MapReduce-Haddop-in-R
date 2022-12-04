@@ -1,5 +1,5 @@
 # Mapper
-setwd("C:/Users/amishra/Desktop/Data science/Prep")
+setwd("C:/Users/username/Desktop/")
 
 fd <- file("order.txt",open="r")
 
